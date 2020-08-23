@@ -1,0 +1,1 @@
+<div class="text-center"> <img class="img-fluid" src="img/lara.png" width="100"/><br/> <img class="img-fluid" src="img/LOGO.png" width="160"/><br/><p>https://mesinkasironline.web.app<br/>https://mesinkasir.github.io</p></div>

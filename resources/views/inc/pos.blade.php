@@ -1,0 +1,2 @@
+<p>
+        <hr><small>Stay Connect : <a href="https://mesinkasir.github.io" target="blank" class="text-danger">Github</a> | <a href="https://fb.com/mesinkasircomplete" target="blank" class="text-danger">Facebook</a> | <a href="https://www.youtube.com/channel/UCIBWTgOXH5oa2YlbfpO7QLQ" target="blank" class="text-danger">Youtube</a></small></p>

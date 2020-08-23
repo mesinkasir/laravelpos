@@ -1,0 +1,1 @@
+<p>Laravel POS present by <a href="https://mesinkasironline.web.app" class="text-danger" target="blank">mesinkasironline.web.app</a></p>
