@@ -1,26 +1,26 @@
 # LARAVEL POS
 
-![Laravel Point oF Sale](laravels.svg)
+![Laravel Point oF Sale](https://github.com/mesinkasir/laravelpos/raw/master/laravels.svg)
 
 Simple point of sale using laravel php artisan.
 For Small shop with simple modules for point of sale transaction.
 
-![Login](0.png)
+![Login](https://github.com/mesinkasir/laravelpos/raw/master/0.png)
 Features login
 
-![User account](1.png)
+![User account](https://github.com/mesinkasir/laravelpos/raw/master/1.png)
 User account
 
-![Product databased](3.png)
+![Product databased](https://github.com/mesinkasir/laravelpos/raw/master/3.png)
 Product menu databased
 
-![Product new](2.png)
+![Product new](https://github.com/mesinkasir/laravelpos/raw/master/2.png)
 Create a new product
 
-![Point of sale penjualan kasir](4.png)
+![Point of sale penjualan kasir](https://github.com/mesinkasir/laravelpos/raw/master/4.png)
 Point of sale features
 
-![Report](5.png)
+![Report](https://github.com/mesinkasir/laravelpos/raw/master/5.png)
 Report details.
 
 ### FEATURES
