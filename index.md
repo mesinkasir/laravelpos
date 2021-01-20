@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
+# LARAVEL POS
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/laravelpos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Laravel Point oF Sale](laravels.svg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Simple point of sale using laravel php artisan.
+For Small shop with simple modules for point of sale transaction.
 
-### Markdown
+![Login](0.png)
+Features login
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![User account](1.png)
+User account
 
-```markdown
-Syntax highlighted code block
+![Product databased](3.png)
+Product menu databased
 
-# Header 1
-## Header 2
-### Header 3
+![Product new](2.png)
+Create a new product
 
-- Bulleted
-- List
+![Point of sale penjualan kasir](4.png)
+Point of sale features
 
-1. Numbered
-2. List
+![Report](5.png)
+Report details.
 
-**Bold** and _Italic_ and `Code` text
+### FEATURES
++ User for user account accsess you can edit/update and delete user.
++ Product for register product , with name product , decription / barcode , sell price , buy price with update edit and delete features.
++ Cashier for point of sale transaction, with receipt ticket print or you can customises with A4 letter format if you needed.
++ Report sale details.
++ Documentation.
++ Log Out.
 
-[Link](url) and ![Image](src)
-```
+### THIRD PARTY INSTALL
++ XAMPP WAMPP
++ NPM / Git bash
++ Laravel
++ Composer
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### HOW TO INSTALL
++ [Cek video installation →](https://youtu.be/YcLonunx7KM)
++ Download / Fork / clone
++ Extract file on your folder apps
++ Copy .env.example file and rename with .env
++ Create new mysql databased
++ Import laravelpos.sql on database
++ Configure env file with your sql database
++ Open Git bash / NPM and run composer install
++ run php artisan serve
++ Open localhost:8000
++ Enjoy it
 
-### Jekyll Themes
+### ONLINE WEB APP
++ Upload .zip file on  public_html hosting
++ create mysql database
++ import laravelpos.sql
++ configure .env file
++ configure public folder and APP.php on your domain
++ open browser with your web app domain.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/laravelpos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### DOC
+For the first you need create new database , create user account , create product , after input database now you can use point of sale for cashier transaction, just click on cashier and create transaction.
+Input customer name , select product , and save it, after save you can click print for print out receipt printer. 
+You can check report on cashier report details.
 
-### Support or Contact
+### HARDWARE
+Can use with receipt printer 58mm thermal, 80mm thermal auto cutter , 76 dotmatix printer , A4 letter printer edit on print out.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+made with ❤ by https://mesinkasironline.web.app
