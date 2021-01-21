@@ -2,6 +2,8 @@
 
 ![Laravel Point oF Sale](https://github.com/mesinkasir/laravelpos/raw/master/laravels.svg)
 
+Full documentation : https://www.hockeycomputindo.com/2020/07/free-point-of-sale-laravel-pos-source.html
+
 Simple point of sale using laravel php artisan.
 For Small shop with simple modules for point of sale transaction.
 
@@ -65,5 +67,8 @@ You can check report on cashier report details.
 
 ### HARDWARE
 Can use with receipt printer 58mm thermal, 80mm thermal auto cutter , 76 dotmatix printer , A4 letter printer edit on print out.
+
+Full documentation : https://www.hockeycomputindo.com/2020/07/free-point-of-sale-laravel-pos-source.html
+
 
 made with ❤ by https://mesinkasironline.web.app
